@@ -55,5 +55,7 @@ LAFAN - dataset + baseline benchmarks ( linear interpolation / copying last fram
     animations in BHV format 
     conversion to binary hbv https://github.com/BobbyAnguelov/FbxFormatConverter
     
+    ostatnie konczyny (w rekach/nogach) 
     
 
+ssh bastion.ki.agh.edu.pl -l <user> -> ssh 172.19.5.13 
