@@ -1,5 +1,5 @@
 #check if dataset.zip exists
-if [ -f dataset.zip ]; then
+if [ -f datasets.zip ]; then
     echo "dataset.zip exists."
 else
     echo "dataset.zip does not exist."
